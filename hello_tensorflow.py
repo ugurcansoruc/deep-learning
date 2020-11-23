@@ -52,4 +52,3 @@ if __name__ == '__main__':
 
     plot_loss(history)
     plot_prediction(predictions, y_predict)
-    pass
