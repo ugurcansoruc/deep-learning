@@ -5,7 +5,7 @@ print(tf.__version__)
 
 
 def function():
-    pass # test codes will be added here so i used pass
+    pass  # test codes will be added here so i used pass
 
 
 if __name__ == '__main__':
